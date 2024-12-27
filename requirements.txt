@@ -1,6 +1,7 @@
 flask
 langchain
 langchain-community
+langchain_groq
 python-dotenv
 requests
 gunicorn
