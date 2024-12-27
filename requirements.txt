@@ -1,4 +1,9 @@
-flask
+streamlit
+langchain
+openai
+python-dotenv
+requests
+
 langchain
 langchain-community
 langchain_groq
@@ -6,8 +11,3 @@ python-dotenv
 requests
 gunicorn
 playsound
-streamlit
-langchain
-openai
-python-dotenv
-requests
