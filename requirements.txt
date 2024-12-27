@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain_groq
 openai
 python-dotenv
 requests
