@@ -1,0 +1,6 @@
+flask
+langchain
+langchain-community
+python-dotenv
+requests
+gunicorn
